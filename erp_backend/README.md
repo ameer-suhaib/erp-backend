@@ -32,5 +32,5 @@ This is the backend implementation for an ERP system that supports role-based ac
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/erp-backend.git
+git clone https://github.com/ameer-suhaib/erp-backend.git
 cd erp-backend
